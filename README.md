@@ -5,7 +5,7 @@ I'm a brazilian game developer that uses the LÖVE framework to make games.
 - 🌕 Lua coder.
 - 🔭 I’m currently working on my website.
 - 🌱 I’m currently learning C++.
-- ⚡ Fun fact: I took less than 2 seconds to create and decide to use this awesome name.
+- ⚡ Fun fact: It took me less than 2 seconds to create and decide to use this awesome name.
 
 #### Languages
 ![Lua](https://img.shields.io/badge/-lua-blue?style=flat&logo=lua&logoColor=white)
