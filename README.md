@@ -3,7 +3,7 @@
 I'm a brazilian game developer that uses the LÖVE framework to make games.
 
 - 🌕 Lua programmer.
-- 🔭 I’m currently working on my website.
+- 🔭 I’m currently working on my engine.
 - 🌱 I’m currently learning Blender and Monogame.
 - ⚡ Fun fact: It took me less than 2 seconds to create and decide to use this awesome name.
 
