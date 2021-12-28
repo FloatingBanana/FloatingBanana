@@ -4,7 +4,7 @@ I'm a brazilian game developer that uses the LÖVE framework to make games.
 
 - 🌕 C# programmer.
 - 🔭 I’m currently working on [Kuro Level Editor](https://github.com/FloatingBanana/kuro-level-editor).
-- 🌱 I’m currently learning Blender and Monogame.
+- 🌱 I’m currently learning OpenGL.
 - ⚡ Fun fact: It took me less than 2 seconds to create and decide to use this awesome name.
 
 More of my works on [Gamejolt](https://gamejolt.com/@FloatingBanana) and [Itch.io](https://floatingbanana.itch.io/)
